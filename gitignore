@@ -1,0 +1,26 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+tModLoader-Logs/environment-server.log
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
