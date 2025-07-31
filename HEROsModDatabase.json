@@ -11,6 +11,18 @@
       ]
     }
   ],
-  "worlds": [],
+  "worlds": [
+    {
+      "worldID": 1210995012,
+      "name": "Nyxane's",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": []
+    }
+  ],
   "version": "0.4.17.1"
 }
