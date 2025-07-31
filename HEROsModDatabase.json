@@ -1,5 +1,12 @@
 {
-  "players": [],
+  "players": [
+    {
+      "ID": 0,
+      "username": "Nyxane",
+      "password": "commandoco",
+      "group": -1
+    }
+  ],
   "groups": [
     {
       "ID": 0,
