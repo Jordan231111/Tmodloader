@@ -1,0 +1,16 @@
+{
+  "players": [],
+  "groups": [
+    {
+      "ID": 0,
+      "name": "Default",
+      "color": "255, 255, 255, 255",
+      "permissions": [
+        "ModifyTerrain",
+        "SpawnBosses"
+      ]
+    }
+  ],
+  "worlds": [],
+  "version": "0.4.17.1"
+}
