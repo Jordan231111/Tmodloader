@@ -587,3 +587,346 @@ System.Exception: Call Error: The 2nd parameter of TownNPCCondition is now Local
 [15:16:04.481] [Main Thread/INFO] [StatusText]: Generating floating islands
 [15:16:07.476] [Main Thread/INFO] [StatusText]: Adding mushroom patches
 [15:16:10.925] [Main Thread/INFO] [StatusText]: Chiseling marble
+[15:16:15.365] [Main Thread/INFO] [StatusText]: Growing granite
+[15:16:17.235] [Main Thread/INFO] [StatusText]: Placing mud in the dirt
+[15:16:17.563] [Main Thread/INFO] [StatusText]: Adding silt
+[15:16:17.671] [Main Thread/INFO] [StatusText]: Adding shinies
+[15:16:17.829] [Main Thread/INFO] [StatusText]: Adding webs
+[15:16:17.867] [Main Thread/INFO] [StatusText]: Creating underworld
+[15:16:18.042] [.NET TP Worker/INFO] [StatusText]: Creating underworld
+[15:16:22.840] [Main Thread/INFO] [StatusText]: Making the world bloody
+[15:16:22.884] [Main Thread/INFO] [StatusText]: Making the world evil
+[15:16:23.156] [Main Thread/INFO] [StatusText]: Adding water bodies
+[15:16:23.224] [.NET TP Worker/INFO] [StatusText]: Creating dungeon
+[15:16:23.834] [Main Thread/INFO] [StatusText]: Placing an astral chest
+[15:16:23.852] [Main Thread/INFO] [StatusText]: Generating mountain caves
+[15:16:23.885] [Main Thread/INFO] [StatusText]: Creating beaches
+[15:16:23.892] [Main Thread/INFO] [StatusText]: Adding gems
+[15:16:24.097] [Main Thread/INFO] [StatusText]: Gravitating sand
+[15:16:24.315] [Main Thread/INFO] [StatusText]: Forming the depths
+[15:16:24.623] [Main Thread/INFO] [StatusText]: Cleaning up dirt backgrounds
+[15:16:24.930] [Main Thread/INFO] [StatusText]: Burying a sarcophagus
+[15:16:25.071] [Main Thread/INFO] [StatusText]: Placing altars
+[15:16:25.120] [Main Thread/INFO] [StatusText]: Building a bigger jungle temple
+[15:16:25.646] [Main Thread/INFO] [StatusText]: Creating hornet nests
+[15:16:26.110] [Main Thread/INFO] [StatusText]: Building a giant beehive
+[15:16:26.771] [Main Thread/INFO] [StatusText]: Settling liquids
+[15:16:26.776] [.NET TP Worker/INFO] [StatusText]: Settling liquids
+[15:16:29.720] [Main Thread/INFO] [StatusText]: Smoothing the world
+[15:16:33.945] [Main Thread/INFO] [StatusText]: Creating waterfalls
+[15:16:35.238] [Main Thread/INFO] [StatusText]: Weathering caverns
+[15:16:38.316] [Main Thread/INFO] [StatusText]: Placing life crystals
+[15:16:38.333] [Main Thread/INFO] [StatusText]: Placing statues
+[15:16:38.479] [Main Thread/INFO] [StatusText]: Hiding treasure
+[15:16:40.656] [Main Thread/INFO] [StatusText]: Hiding more treasure
+[15:16:40.726] [Main Thread/INFO] [StatusText]: Hiding jungle treasure
+[15:16:40.730] [Main Thread/INFO] [StatusText]: Hiding water treasure
+[15:16:40.757] [Main Thread/INFO] [StatusText]: Growing spider caves
+[15:16:41.481] [Main Thread/INFO] [StatusText]: Mossification
+[15:16:42.007] [Main Thread/INFO] [StatusText]: Building a bigger jungle temple
+[15:16:42.024] [Main Thread/INFO] [StatusText]: Making cave walls
+[15:16:43.017] [Main Thread/INFO] [StatusText]: Growing rich mahogany
+[15:16:44.049] [Main Thread/INFO] [StatusText]: Adding a grotesque floating island
+[15:16:44.203] [Main Thread/INFO] [StatusText]: Placing breakables
+[15:16:44.952] [Main Thread/INFO] [StatusText]: Placing hellforges
+[15:16:44.970] [Main Thread/INFO] [StatusText]: Spreading grass
+[15:16:45.173] [Main Thread/INFO] [StatusText]: Felling trees
+[15:16:45.202] [Main Thread/INFO] [StatusText]: Placing traps
+[15:16:46.286] [Main Thread/INFO] [StatusText]: Placing objects
+[15:16:46.816] [Main Thread/INFO] [StatusText]: Spawning the Automaton
+[15:16:46.817] [Main Thread/INFO] [StatusText]: Planting sunflowers
+[15:16:46.825] [Main Thread/INFO] [StatusText]: Placing mechanic shed
+[15:16:46.835] [Main Thread/INFO] [StatusText]: Planting trees
+[15:16:47.205] [Main Thread/INFO] [StatusText]: Planting herbs
+[15:16:48.793] [Main Thread/INFO] [StatusText]: Planting weeds
+[15:16:50.195] [Main Thread/INFO] [StatusText]: Growing vines
+[15:16:51.428] [Main Thread/INFO] [StatusText]: Planting flowers
+[15:16:51.454] [Main Thread/INFO] [StatusText]: Planting mushrooms
+[15:16:52.269] [Main Thread/INFO] [StatusText]: Blessing a flourishing jungle grove
+[15:16:52.952] [Main Thread/INFO] [StatusText]: Lighting the Neon Veil
+[15:16:54.160] [Main Thread/INFO] [StatusText]: Settling liquids
+[15:16:57.621] [Main Thread/INFO] [StatusText]: Partially flooding an overblown desert
+[15:17:04.386] [Main Thread/INFO] [StatusText]: Growing cacti
+[15:17:05.154] [Main Thread/INFO] [StatusText]: Clean up
+[15:17:07.253] [Main Thread/INFO] [StatusText]: Placing the Lihzahrd altar
+[15:17:07.259] [Main Thread/INFO] [StatusText]: Generating structures..Dead Man's Chests
+[15:17:07.346] [Main Thread/INFO] [StatusText]: Generating structures..Thin Ice
+[15:17:07.623] [Main Thread/INFO] [StatusText]: Generating structures..Sword Shrines
+[15:17:07.713] [Main Thread/INFO] [StatusText]: Generating structures..Campsites
+[15:17:07.820] [Main Thread/INFO] [StatusText]: Generating structures..Explosive Traps
+[15:17:08.169] [Main Thread/INFO] [StatusText]: Generating structures..Living Trees
+[15:17:09.113] [Main Thread/INFO] [StatusText]: Generating structures..Long Minecart Tracks
+[15:17:11.556] [Main Thread/INFO] [StatusText]: Generating structures..Standard Minecart Tracks
+[15:17:17.230] [Main Thread/INFO] [StatusText]: Generating structures..Lava Traps
+[15:17:17.343] [Main Thread/INFO] [StatusText]: Polluting one of the oceans
+[15:17:19.551] [Main Thread/INFO] [StatusText]: Growing water plants
+[15:17:21.121] [Main Thread/INFO] [StatusText]: Disarming broken traps
+[15:17:21.839] [Main Thread/INFO] [StatusText]: Sensibly shuffling gem depth
+[15:17:22.037] [Main Thread/INFO] [StatusText]: Entombing occult literature
+[15:17:22.397] [Main Thread/INFO] [StatusText]: Incinerating Azafure
+[15:17:31.951] [Main Thread/INFO] [StatusText]: Slaying a vengeful god
+[15:17:40.252] [Main Thread/INFO] [StatusText]: Burrowing an artifact from Osiris
+[15:17:40.271] [Main Thread/INFO] [StatusText]: Crystallizing a deep blue geode
+[15:17:40.410] [Main Thread/INFO] [StatusText]: Hiding a beast tamer's igloo
+[15:17:40.491] [Main Thread/INFO] [StatusText]: Recovering a piece of the Parthenon
+[15:17:40.593] [Main Thread/INFO] [StatusText]: Planting a mushroom rich of hyphae
+[15:17:40.731] [Main Thread/INFO] [StatusText]: Assembling a shinobi hideout
+[15:17:40.773] [Main Thread/INFO] [StatusText]: Hiding wyvern's gold in plain sight
+[15:17:40.946] [Main Thread/INFO] [StatusText]: Forging with the fires of hell
+[15:17:41.061] [Main Thread/INFO] [StatusText]: Studying marine biology
+[15:17:41.129] [Main Thread/INFO] [StatusText]: Prototyping quantum supercooling
+[15:17:41.308] [Main Thread/INFO] [StatusText]: Developing abhorrent bioweaponry
+[15:17:41.384] [Main Thread/INFO] [StatusText]: Strip mining for minerals
+[15:17:41.503] [Main Thread/INFO] [StatusText]: Abandoned engineering projects
+[15:17:41.678] [Main Thread/INFO] [StatusText]: Other minor research projects
+[15:17:41.772] [Main Thread/INFO] [StatusText]: Disposing of Silva's remains
+[15:17:48.419] [Main Thread/INFO] [StatusText]: Irradiating one of the oceans
+[15:18:05.132] [Main Thread/INFO] [StatusText]: I wanna rock
+[15:18:05.179] [Main Thread/INFO] [StatusText]: Enriching low Terraria orbit
+[15:18:06.729] [.NET TP Worker/WARN] [CalamityMod]: Could not find Thorium Marine Kelp Planter Box. This item will not be added to the Draedon Planetoid Lab.
+[15:18:06.731] [.NET TP Worker/WARN] [CalamityMod]: Could not find Thorium Marine Kelp Planter Box. This item will not be added to the Draedon Planetoid Lab.
+[15:18:07.843] [Main Thread/INFO] [StatusText]: Final clean up
+[15:18:09.987] [Main Thread/INFO] [StatusText]: Finalizing world
+[15:18:10.063] [.NET TP Worker/INFO] [tML]: Generation of 8400x2400 Crimson world with seed 1734983264 completed in 2m 46s 927ms
+[15:18:10.069] [.NET TP Worker/INFO] [StatusText]: Saving world data
+[15:18:10.601] [.NET TP Worker/INFO] [StatusText]: Validating world save
+[15:18:10.746] [.NET TP Worker/INFO] [StatusText]: Saving modded world data
+[15:18:13.703] [Main Thread/INFO] [StatusText]: 100.0% - Finalizing world - 0.
+[15:19:44.411] [.NET TP Worker/INFO] [Terraria]: Loading World: Nyxane's, IsCloud=False, Width: 8400, Height: 2400, Evil: 1, GameMode: 1
+[15:19:44.450] [.NET TP Worker/INFO] [StatusText]: Loading world data
+[15:19:46.656] [.NET TP Worker/INFO] [StatusText]: Settling liquids
+[15:19:48.216] [Main Thread/INFO] [Terraria]: Running engine preload...
+[15:19:48.217] [Main Thread/INFO] [Terraria]: Listening on port 7777
+[15:19:48.218] [Main Thread/INFO] [StatusText]: Starting server...
+[15:19:48.303] [Main Thread/INFO] [StatusText]: Server started
+[15:19:49.265] [.NET TP Worker/DEBUG] [tML]: Web Request: https://raw.githubusercontent.com/Dummiez/tModLoader-WingSlotExtra/main/build.txt
+[15:19:51.002] [5/DEBUG] [tML]: SSDP search line separator: CRLF
+[15:20:14.174] [TCP Listen Thread/INFO] [Terraria]: 127.160.254.240:56277 is connecting...
+[15:20:14.192] [Main Thread/INFO] [tML]: tModLoader RAM usage has increased: 1.9 GB
+[15:20:15.628] [Main Thread/DEBUG] [tML]: ILHook Terraria.Main::DoDraw(GameTime) added by Luminance
+[15:20:15.634] [Main Thread/DEBUG] [tML]: Hook Terraria.GameContent.UI.Elements.UIWorldListItem::.ctor(WorldFileData, int, bool) added by FargowiltasSouls
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config AlchemistNPCLite:ModConfiguration {}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config AutoTrash:AutoTrashServerConfig {}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config FargoSeeds:WorldConfig {}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config Fargowiltas:FargoServerConfig {"Halloween":1,"Christmas":1,"DisableTombstones":true}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config FargowiltasSouls:SoulConfig {}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config FargowiltasCrossmod:CalDLCConfig {}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config HEROsMod:HEROsModServerConfig {"Telemetry":false}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config MagicStorage:MagicStorageServerConfig {}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config miningcracks_take_on_luiafk:LuiAFKConfig {}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config MoreAccessories:MoreAccessoriesConfig {}
+[15:20:15.635] [Main Thread/DEBUG] [tML]: Sending Server Config NoFishingQuests:Config {"goldMultiplier":2.0}
+[15:20:15.636] [Main Thread/DEBUG] [tML]: Sending Server Config NoPylonRestrictions:Config {}
+[15:20:15.636] [Main Thread/DEBUG] [tML]: Sending Server Config OneStopNPCShop:ServerSideConfig {}
+[15:20:15.636] [Main Thread/DEBUG] [tML]: Sending Server Config OreExcavator:OreExcavatorConfig_Server {"manaConsumption":0.0,"oreMultiplier":1.0}
+[15:20:15.636] [Main Thread/DEBUG] [tML]: Sending Server Config ShorterRespawn:ShorterRespawnConfig {}
+[15:20:15.636] [Main Thread/DEBUG] [tML]: Sending Server Config StarsAbove:StarsAboveServersideConfig {}
+[15:20:15.636] [Main Thread/DEBUG] [tML]: Sending Server Config StartingBags:BagsConfig {}
+[15:20:15.636] [Main Thread/DEBUG] [tML]: Sending Server Config WheresMyItems:ServerConfig {}
+[15:20:16.060] [Main Thread/INFO] [Terraria]: Nyxane has joined.
+[15:20:16.068] [Main Thread/WARN] [tML]: Silently Caught Exception: 
+System.Collections.Generic.KeyNotFoundException: The given key 'miningcracks_take_on_luiafk/Luiafk Recall' was not present in the dictionary.
+   at miningcracks_take_on_luiafk.Utility.PotionEffects.Potion.RecallEffect.ApplyEffect(LuiafkPlayer player) in miningcracks_take_on_luiafk\Utility\PotionEffects\Potion\RecallEffect.cs:line 7
+   at miningcracks_take_on_luiafk.LuiafkPlayer.UpdatePotions() in miningcracks_take_on_luiafk\LuiafkPlayer.cs:line 1021
+   at miningcracks_take_on_luiafk.LuiafkPlayer.PostUpdateEquips() in miningcracks_take_on_luiafk\LuiafkPlayer.cs:line 867
+   at Terraria.ModLoader.PlayerLoader.PostUpdateEquips(Player player) in tModLoader\Terraria\ModLoader\PlayerLoader.cs:line 304
+   at DMD<DMD<>?56184712::Terraria.Player::Update>(Player this, Int32 i)
+   at SyncProxy<System.Void Terraria.Player:Update(System.Int32)>(Player , Int32 )
+   at DMD<DMD<>?10050357::Terraria.Main::DoUpdateInWorld>(Main this, Stopwatch sw)
+   at SyncProxy<System.Void Terraria.Main:DoUpdateInWorld(System.Diagnostics.Stopwatch)>(Main , Stopwatch )
+   at Terraria.Main.DoUpdate(GameTime& gameTime) in tModLoader\Terraria\Main.cs:line 14778
+   at Terraria.Main.Update(GameTime gameTime) in tModLoader\Terraria\Main.cs:line 14315
+   at Terraria.Main.DedServ_PostModLoad(Boolean& reloadMods) in tModLoader\Terraria\Main.cs:line 5209
+   at Terraria.Main.DedServ() in tModLoader\Terraria\Main.cs:line 4725
+   at Terraria.Program.RunGame() in tModLoader\Terraria\Program.cs:line 264
+   at Terraria.Program.LaunchGame_(Boolean isServer) in tModLoader\Terraria\Program.cs:line 240
+   at Terraria.Program.LaunchGame(String[] args, Boolean monoArgs) in tModLoader\Terraria\Program.cs:line 213
+   at Terraria.MonoLaunch.Main_End(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 79
+   at Terraria.MonoLaunch.<>c__DisplayClass1_0.<Main>b__1() in tModLoader\Terraria\MonoLaunch.cs:line 65
+   at Terraria.MonoLaunch.Main(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 72
+
+[15:20:16.071] [Main Thread/WARN] [tML]: Silently Caught Exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CalamityMod.CalPlayer.CalamityPlayer.EnergyShields() in CalamityMod\CalPlayer\CalamityPlayerMiscEffects.cs:line 3932
+   at CalamityMod.CalPlayer.CalamityPlayer.PostUpdateMiscEffects() in CalamityMod\CalPlayer\CalamityPlayerMiscEffects.cs:line 128
+   at Terraria.ModLoader.PlayerLoader.PostUpdateMiscEffects(Player player) in tModLoader\Terraria\ModLoader\PlayerLoader.cs:line 340
+   at DMD<DMD<>?56184712::Terraria.Player::Update>(Player this, Int32 i)
+   at SyncProxy<System.Void Terraria.Player:Update(System.Int32)>(Player , Int32 )
+   at DMD<DMD<>?10050357::Terraria.Main::DoUpdateInWorld>(Main this, Stopwatch sw)
+   at SyncProxy<System.Void Terraria.Main:DoUpdateInWorld(System.Diagnostics.Stopwatch)>(Main , Stopwatch )
+   at Terraria.Main.DoUpdate(GameTime& gameTime) in tModLoader\Terraria\Main.cs:line 14778
+   at Terraria.Main.Update(GameTime gameTime) in tModLoader\Terraria\Main.cs:line 14315
+   at Terraria.Main.DedServ_PostModLoad(Boolean& reloadMods) in tModLoader\Terraria\Main.cs:line 5209
+   at Terraria.Main.DedServ() in tModLoader\Terraria\Main.cs:line 4725
+   at Terraria.Program.RunGame() in tModLoader\Terraria\Program.cs:line 264
+   at Terraria.Program.LaunchGame_(Boolean isServer) in tModLoader\Terraria\Program.cs:line 240
+   at Terraria.Program.LaunchGame(String[] args, Boolean monoArgs) in tModLoader\Terraria\Program.cs:line 213
+   at Terraria.MonoLaunch.Main_End(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 79
+   at Terraria.MonoLaunch.<>c__DisplayClass1_0.<Main>b__1() in tModLoader\Terraria\MonoLaunch.cs:line 65
+   at Terraria.MonoLaunch.Main(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 72
+
+[15:20:16.526] [Main Thread/WARN] [tML]: Silently Caught Exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CalamityMod.Cooldowns.CooldownInstance..ctor(BinaryReader reader) in CalamityMod\Cooldowns\CooldownInstance.cs:line 76
+   at CalamityMod.CalPlayer.CalamityPlayer.HandleCooldownAddition(BinaryReader reader) in CalamityMod\CalPlayer\CalamityPlayerNetcode.cs:line 141
+   at CalamityMod.CalamityNetcode.HandlePacket(Mod mod, BinaryReader reader, Int32 whoAmI) in CalamityMod\CalamityNetcode.cs:line 26
+   at Terraria.ModLoader.ModNet.HandleModPacket(BinaryReader reader, Int32 whoAmI, Int32 length) in tModLoader\Terraria\ModLoader\ModNet.cs:line 622
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType) in tModLoader\Terraria\MessageBuffer.cs:line 3882
+   at DMD<DMD<>?61767758::Terraria.NetMessage::CheckBytes>(Int32 bufferIndex)
+   at SyncProxy<System.Void Terraria.NetMessage:CheckBytes(System.Int32)>(Int32 )
+   at DMD<DMD<>?40069073::Terraria.Netplay::UpdateServerInMainThread>()
+   at SyncProxy<System.Void Terraria.Netplay:UpdateServerInMainThread()>()
+   at Terraria.Netplay.UpdateInMainThread() in tModLoader\Terraria\Netplay.cs:line 759
+   at Terraria.Main.DoUpdate(GameTime& gameTime) in tModLoader\Terraria\Main.cs:line 14416
+   at Terraria.Main.Update(GameTime gameTime) in tModLoader\Terraria\Main.cs:line 14315
+   at Terraria.Main.DedServ_PostModLoad(Boolean& reloadMods) in tModLoader\Terraria\Main.cs:line 5209
+   at Terraria.Main.DedServ() in tModLoader\Terraria\Main.cs:line 4725
+   at Terraria.Program.RunGame() in tModLoader\Terraria\Program.cs:line 264
+   at Terraria.Program.LaunchGame_(Boolean isServer) in tModLoader\Terraria\Program.cs:line 240
+   at Terraria.Program.LaunchGame(String[] args, Boolean monoArgs) in tModLoader\Terraria\Program.cs:line 213
+   at Terraria.MonoLaunch.Main_End(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 79
+   at Terraria.MonoLaunch.<>c__DisplayClass1_0.<Main>b__1() in tModLoader\Terraria\MonoLaunch.cs:line 65
+   at Terraria.MonoLaunch.Main(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 72
+
+[15:20:26.584] [Main Thread/WARN] [tML]: Silently Caught Exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CalamityMod.CalPlayer.CalamityPlayer.HandleCooldownRemoval(BinaryReader reader) in CalamityMod\CalPlayer\CalamityPlayerNetcode.cs:line 154
+   at CalamityMod.CalamityNetcode.HandlePacket(Mod mod, BinaryReader reader, Int32 whoAmI) in CalamityMod\CalamityNetcode.cs:line 26
+   at Terraria.ModLoader.ModNet.HandleModPacket(BinaryReader reader, Int32 whoAmI, Int32 length) in tModLoader\Terraria\ModLoader\ModNet.cs:line 622
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType) in tModLoader\Terraria\MessageBuffer.cs:line 3882
+   at DMD<DMD<>?61767758::Terraria.NetMessage::CheckBytes>(Int32 bufferIndex)
+   at SyncProxy<System.Void Terraria.NetMessage:CheckBytes(System.Int32)>(Int32 )
+   at DMD<DMD<>?40069073::Terraria.Netplay::UpdateServerInMainThread>()
+   at SyncProxy<System.Void Terraria.Netplay:UpdateServerInMainThread()>()
+   at Terraria.Main.DoUpdate(GameTime& gameTime) in tModLoader\Terraria\Main.cs:line 14416
+   at Terraria.Main.Update(GameTime gameTime) in tModLoader\Terraria\Main.cs:line 14315
+   at Terraria.Main.DedServ_PostModLoad(Boolean& reloadMods) in tModLoader\Terraria\Main.cs:line 5209
+   at Terraria.Main.DedServ() in tModLoader\Terraria\Main.cs:line 4725
+   at Terraria.Program.RunGame() in tModLoader\Terraria\Program.cs:line 264
+   at Terraria.Program.LaunchGame_(Boolean isServer) in tModLoader\Terraria\Program.cs:line 240
+   at Terraria.Program.LaunchGame(String[] args, Boolean monoArgs) in tModLoader\Terraria\Program.cs:line 213
+   at Terraria.MonoLaunch.Main_End(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 79
+   at Terraria.MonoLaunch.<>c__DisplayClass1_0.<Main>b__1() in tModLoader\Terraria\MonoLaunch.cs:line 65
+   at Terraria.MonoLaunch.Main(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 72
+
+[15:20:26.600] [Main Thread/WARN] [tML]: Silently Caught Exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CalamityMod.Cooldowns.CooldownInstance..ctor(BinaryReader reader) in CalamityMod\Cooldowns\CooldownInstance.cs:line 76
+   at CalamityMod.CalPlayer.CalamityPlayer.HandleCooldownAddition(BinaryReader reader) in CalamityMod\CalPlayer\CalamityPlayerNetcode.cs:line 141
+   at CalamityMod.CalamityNetcode.HandlePacket(Mod mod, BinaryReader reader, Int32 whoAmI) in CalamityMod\CalamityNetcode.cs:line 26
+   at Terraria.ModLoader.ModNet.HandleModPacket(BinaryReader reader, Int32 whoAmI, Int32 length) in tModLoader\Terraria\ModLoader\ModNet.cs:line 622
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType) in tModLoader\Terraria\MessageBuffer.cs:line 3882
+   at DMD<DMD<>?61767758::Terraria.NetMessage::CheckBytes>(Int32 bufferIndex)
+   at SyncProxy<System.Void Terraria.NetMessage:CheckBytes(System.Int32)>(Int32 )
+   at DMD<DMD<>?40069073::Terraria.Netplay::UpdateServerInMainThread>()
+   at SyncProxy<System.Void Terraria.Netplay:UpdateServerInMainThread()>()
+   at Terraria.Main.DoUpdate(GameTime& gameTime) in tModLoader\Terraria\Main.cs:line 14416
+   at Terraria.Main.Update(GameTime gameTime) in tModLoader\Terraria\Main.cs:line 14315
+   at Terraria.Main.DedServ_PostModLoad(Boolean& reloadMods) in tModLoader\Terraria\Main.cs:line 5209
+   at Terraria.Main.DedServ() in tModLoader\Terraria\Main.cs:line 4725
+   at Terraria.Program.RunGame() in tModLoader\Terraria\Program.cs:line 264
+   at Terraria.Program.LaunchGame_(Boolean isServer) in tModLoader\Terraria\Program.cs:line 240
+   at Terraria.Program.LaunchGame(String[] args, Boolean monoArgs) in tModLoader\Terraria\Program.cs:line 213
+   at Terraria.MonoLaunch.Main_End(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 79
+   at Terraria.MonoLaunch.<>c__DisplayClass1_0.<Main>b__1() in tModLoader\Terraria\MonoLaunch.cs:line 65
+   at Terraria.MonoLaunch.Main(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 72
+
+[15:20:56.521] [Server Loop Thread/INFO] [Network]: [0][127.160.254.240:56277 (Nyxane)] Terminating: Connection lost
+[15:20:56.522] [Server Loop Thread/INFO] [Terraria]: Nyxane has left.
+[15:20:56.523] [Server Loop Thread/INFO] [Network]: [0][127.160.254.240:56277 (Anonymous)] Closing TcpSocket
+[15:21:11.692] [TCP Listen Thread/INFO] [Terraria]: 127.160.254.240:38761 is connecting...
+[15:21:11.984] [Main Thread/DEBUG] [tML]: Sending Server Config AlchemistNPCLite:ModConfiguration {}
+[15:21:11.984] [Main Thread/DEBUG] [tML]: Sending Server Config AutoTrash:AutoTrashServerConfig {}
+[15:21:11.984] [Main Thread/DEBUG] [tML]: Sending Server Config FargoSeeds:WorldConfig {}
+[15:21:11.984] [Main Thread/DEBUG] [tML]: Sending Server Config Fargowiltas:FargoServerConfig {"Halloween":1,"Christmas":1,"DisableTombstones":true}
+[15:21:11.985] [Main Thread/DEBUG] [tML]: Sending Server Config FargowiltasSouls:SoulConfig {}
+[15:21:11.985] [Main Thread/DEBUG] [tML]: Sending Server Config FargowiltasCrossmod:CalDLCConfig {}
+[15:21:11.985] [Main Thread/DEBUG] [tML]: Sending Server Config HEROsMod:HEROsModServerConfig {"Telemetry":false}
+[15:21:11.985] [Main Thread/DEBUG] [tML]: Sending Server Config MagicStorage:MagicStorageServerConfig {}
+[15:21:11.986] [Main Thread/DEBUG] [tML]: Sending Server Config miningcracks_take_on_luiafk:LuiAFKConfig {}
+[15:21:11.986] [Main Thread/DEBUG] [tML]: Sending Server Config MoreAccessories:MoreAccessoriesConfig {}
+[15:21:11.986] [Main Thread/DEBUG] [tML]: Sending Server Config NoFishingQuests:Config {"goldMultiplier":2.0}
+[15:21:11.986] [Main Thread/DEBUG] [tML]: Sending Server Config NoPylonRestrictions:Config {}
+[15:21:11.987] [Main Thread/DEBUG] [tML]: Sending Server Config OneStopNPCShop:ServerSideConfig {}
+[15:21:11.987] [Main Thread/DEBUG] [tML]: Sending Server Config OreExcavator:OreExcavatorConfig_Server {"manaConsumption":0.0,"oreMultiplier":1.0}
+[15:21:11.987] [Main Thread/DEBUG] [tML]: Sending Server Config ShorterRespawn:ShorterRespawnConfig {}
+[15:21:11.987] [Main Thread/DEBUG] [tML]: Sending Server Config StarsAbove:StarsAboveServersideConfig {}
+[15:21:11.987] [Main Thread/DEBUG] [tML]: Sending Server Config StartingBags:BagsConfig {}
+[15:21:11.987] [Main Thread/DEBUG] [tML]: Sending Server Config WheresMyItems:ServerConfig {}
+[15:21:12.435] [Main Thread/INFO] [Terraria]: Nyxane has joined.
+[15:21:12.852] [Main Thread/WARN] [tML]: Silently Caught Exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CalamityMod.CalamityNetcode.HandlePacket(Mod mod, BinaryReader reader, Int32 whoAmI) in CalamityMod\CalamityNetcode.cs:line 26
+   at Terraria.ModLoader.ModNet.HandleModPacket(BinaryReader reader, Int32 whoAmI, Int32 length) in tModLoader\Terraria\ModLoader\ModNet.cs:line 622
+   at Terraria.MessageBuffer.GetData(Int32 start, Int32 length, Int32& messageType) in tModLoader\Terraria\MessageBuffer.cs:line 3882
+   at DMD<DMD<>?61767758::Terraria.NetMessage::CheckBytes>(Int32 bufferIndex)
+   at SyncProxy<System.Void Terraria.NetMessage:CheckBytes(System.Int32)>(Int32 )
+   at DMD<DMD<>?40069073::Terraria.Netplay::UpdateServerInMainThread>()
+   at SyncProxy<System.Void Terraria.Netplay:UpdateServerInMainThread()>()
+   at Terraria.Main.DoUpdate(GameTime& gameTime) in tModLoader\Terraria\Main.cs:line 14416
+   at Terraria.Main.Update(GameTime gameTime) in tModLoader\Terraria\Main.cs:line 14315
+   at Terraria.Main.DedServ_PostModLoad(Boolean& reloadMods) in tModLoader\Terraria\Main.cs:line 5209
+   at Terraria.Main.DedServ() in tModLoader\Terraria\Main.cs:line 4725
+   at Terraria.Program.RunGame() in tModLoader\Terraria\Program.cs:line 264
+   at Terraria.Program.LaunchGame_(Boolean isServer) in tModLoader\Terraria\Program.cs:line 240
+   at Terraria.Program.LaunchGame(String[] args, Boolean monoArgs) in tModLoader\Terraria\Program.cs:line 213
+   at Terraria.MonoLaunch.Main_End(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 79
+   at Terraria.MonoLaunch.<>c__DisplayClass1_0.<Main>b__1() in tModLoader\Terraria\MonoLaunch.cs:line 65
+   at Terraria.MonoLaunch.Main(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 72
+
+[15:22:09.884] [Server Loop Thread/INFO] [Network]: [0][127.160.254.240:38761 (Nyxane)] Terminating: Connection lost
+[15:22:09.885] [Server Loop Thread/INFO] [Terraria]: Nyxane has left.
+[15:22:09.886] [Server Loop Thread/INFO] [Network]: [0][127.160.254.240:38761 (Anonymous)] Closing TcpSocket
+[15:22:09.887] [Main Thread/WARN] [tML]: Silently Caught Exception: 
+System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at Ionic.Zlib.ZlibBaseStream.Write(Byte[] buffer, Int32 offset, Int32 count) in C:\projects\dotnetzip-semverd\src\Zlib.Shared\ZlibBaseStream.cs:line 159
+   at Terraria.NetMessage.CompressTileBlock_Inner(BinaryWriter writer, Int32 xStart, Int32 yStart, Int32 width, Int32 height) in tModLoader\Terraria\NetMessage.cs:line 1832
+   at Terraria.NetMessage.CompressTileBlock(Int32 xStart, Int32 yStart, Int16 width, Int16 height, Stream stream) in tModLoader\Terraria\NetMessage.cs:line 1795
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7) in tModLoader\Terraria\NetMessage.cs:line 373
+   at Terraria.NetMessage.SendSection(Int32 whoAmi, Int32 sectionX, Int32 sectionY) in tModLoader\Terraria\NetMessage.cs:line 2560
+   at Terraria.RemoteClient.CheckSection(Int32 playerIndex, Vector2 position, Int32 fluff) in tModLoader\Terraria\RemoteClient.cs:line 122
+   at Terraria.Main.UpdateServer() in tModLoader\Terraria\Main.cs:line 55924
+   at DMD<DMD<>?10050357::Terraria.Main::DoUpdateInWorld>(Main this, Stopwatch sw)
+   at SyncProxy<System.Void Terraria.Main:DoUpdateInWorld(System.Diagnostics.Stopwatch)>(Main , Stopwatch )
+   at Terraria.Main.DoUpdate(GameTime& gameTime) in tModLoader\Terraria\Main.cs:line 14778
+   at Terraria.Main.Update(GameTime gameTime) in tModLoader\Terraria\Main.cs:line 14315
+   at Terraria.Main.DedServ_PostModLoad(Boolean& reloadMods) in tModLoader\Terraria\Main.cs:line 5209
+   at Terraria.Main.DedServ() in tModLoader\Terraria\Main.cs:line 4725
+   at Terraria.Program.RunGame() in tModLoader\Terraria\Program.cs:line 264
+   at Terraria.Program.LaunchGame_(Boolean isServer) in tModLoader\Terraria\Program.cs:line 240
+   at Terraria.Program.LaunchGame(String[] args, Boolean monoArgs) in tModLoader\Terraria\Program.cs:line 213
+   at Terraria.MonoLaunch.Main_End(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 79
+   at Terraria.MonoLaunch.<>c__DisplayClass1_0.<Main>b__1() in tModLoader\Terraria\MonoLaunch.cs:line 65
+   at Terraria.MonoLaunch.Main(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 72
+
+[15:22:09.887] [Main Thread/WARN] [tML]: Silently Caught Exception: 
+System.ObjectDisposedException: Cannot access a closed Stream.
+   at System.IO.MemoryStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at Ionic.Zlib.ZlibBaseStream.finish() in C:\projects\dotnetzip-semverd\src\Zlib.Shared\ZlibBaseStream.cs:line 200
+   at Ionic.Zlib.ZlibBaseStream.Dispose(Boolean disposing) in C:\projects\dotnetzip-semverd\src\Zlib.Shared\ZlibBaseStream.cs:line 312
+   at System.IO.Stream.Close()
+   at Ionic.Zlib.DeflateStream.Dispose(Boolean disposing) in C:\projects\dotnetzip-semverd\src\Zlib.Shared\DeflateStream.cs:line 437
+   at System.IO.Stream.Close()
+   at Terraria.NetMessage.CompressTileBlock(Int32 xStart, Int32 yStart, Int16 width, Int16 height, Stream stream) in tModLoader\Terraria\NetMessage.cs:line 1795
+   at Terraria.NetMessage.SendData(Int32 msgType, Int32 remoteClient, Int32 ignoreClient, NetworkText text, Int32 number, Single number2, Single number3, Single number4, Int32 number5, Int32 number6, Int32 number7) in tModLoader\Terraria\NetMessage.cs:line 373
+   at Terraria.NetMessage.SendSection(Int32 whoAmi, Int32 sectionX, Int32 sectionY) in tModLoader\Terraria\NetMessage.cs:line 2560
+   at Terraria.RemoteClient.CheckSection(Int32 playerIndex, Vector2 position, Int32 fluff) in tModLoader\Terraria\RemoteClient.cs:line 122
+   at Terraria.Main.UpdateServer() in tModLoader\Terraria\Main.cs:line 55924
+   at DMD<DMD<>?10050357::Terraria.Main::DoUpdateInWorld>(Main this, Stopwatch sw)
+   at SyncProxy<System.Void Terraria.Main:DoUpdateInWorld(System.Diagnostics.Stopwatch)>(Main , Stopwatch )
+   at Terraria.Main.DoUpdate(GameTime& gameTime) in tModLoader\Terraria\Main.cs:line 14778
+   at Terraria.Main.Update(GameTime gameTime) in tModLoader\Terraria\Main.cs:line 14315
+   at Terraria.Main.DedServ_PostModLoad(Boolean& reloadMods) in tModLoader\Terraria\Main.cs:line 5209
+   at Terraria.Main.DedServ() in tModLoader\Terraria\Main.cs:line 4725
+   at Terraria.Program.RunGame() in tModLoader\Terraria\Program.cs:line 264
+   at Terraria.Program.LaunchGame_(Boolean isServer) in tModLoader\Terraria\Program.cs:line 240
+   at Terraria.Program.LaunchGame(String[] args, Boolean monoArgs) in tModLoader\Terraria\Program.cs:line 213
+   at Terraria.MonoLaunch.Main_End(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 79
+   at Terraria.MonoLaunch.<>c__DisplayClass1_0.<Main>b__1() in tModLoader\Terraria\MonoLaunch.cs:line 65
+   at Terraria.MonoLaunch.Main(String[] args) in tModLoader\Terraria\MonoLaunch.cs:line 72
+
+[15:22:28.200] [Main Thread/INFO] [StatusText]: Saving world data
+[15:22:28.530] [Main Thread/INFO] [StatusText]: Validating world save
+[15:22:28.622] [Main Thread/INFO] [StatusText]: Backing up world file
+[15:22:28.662] [Main Thread/INFO] [StatusText]: Saving modded world data
