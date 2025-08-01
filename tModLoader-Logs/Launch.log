@@ -1,0 +1,12 @@
+Logging to /datasets/_deepnote_work/Tmodloader/tModLoader-Logs/Launch.log
+Fixing Environment Issues
+Success!
+Verifying .NET....
+Parsing .NET version requirements from runtimeconfig.json
+Success! dotnet_version=8.0.0
+Checking for old .NET versions to remove from folder
+Cleanup Complete
+Checking dotnet install...
+Dotnet should be present in "/datasets/_deepnote_work/Tmodloader/dotnet"
+Attempting Launch...
+Launched Using Local Dotnet. Launch command: "/datasets/_deepnote_work/Tmodloader/dotnet/dotnet" tModLoader.dll "-server -nosteam -config serverconfig.txt -tmlsavedirectory ./"
