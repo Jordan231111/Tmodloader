@@ -1,0 +1,68 @@
+{
+  "players": [
+    {
+      "ID": 0,
+      "username": "Nyxane",
+      "password": "commandoco",
+      "group": -1
+    }
+  ],
+  "groups": [
+    {
+      "ID": 0,
+      "name": "Default",
+      "color": "255, 255, 255, 255",
+      "permissions": [
+        "ModifyTerrain",
+        "SpawnBosses"
+      ]
+    }
+  ],
+  "worlds": [
+    {
+      "worldID": 1210995012,
+      "name": "Nyxane's",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": []
+    },
+    {
+      "worldID": 252993343,
+      "name": "Nyxane's",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": []
+    },
+    {
+      "worldID": 711716365,
+      "name": "a",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": []
+    },
+    {
+      "worldID": 202140429,
+      "name": "b",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": []
+    }
+  ],
+  "version": "0.4.17.1"
+}
