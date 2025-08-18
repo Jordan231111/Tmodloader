@@ -62,6 +62,17 @@
       "NPCSpawnsDiabled": false,
       "regions": [],
       "waypoints": []
+    },
+    {
+      "worldID": 1319565852,
+      "name": "main",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": []
     }
   ],
   "version": "0.4.17.1"
