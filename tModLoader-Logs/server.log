@@ -565,3 +565,7 @@ System.Exception: Call Error: The 2nd parameter of TownNPCCondition is now Local
 [18:11:44.267] [Main Thread/INFO] [StatusText]: Server started
 [18:11:44.287] [.NET TP Worker/DEBUG] [tML]: SSDP search line separator: CRLF
 [18:11:54.284] [.NET TP Worker/DEBUG] [tML]: Web Request: https://raw.githubusercontent.com/Dummiez/tModLoader-WingSlotExtra/main/build.txt
+[18:21:10.900] [Main Thread/INFO] [StatusText]: Saving world data
+[18:21:11.120] [Main Thread/INFO] [StatusText]: Validating world save
+[18:21:11.185] [Main Thread/INFO] [StatusText]: Backing up world file
+[18:21:11.221] [Main Thread/INFO] [StatusText]: Saving modded world data
